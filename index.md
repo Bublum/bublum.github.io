@@ -1,8 +1,6 @@
 ## Welcome to Bublum
 
-You can use the [editor on GitHub](https://github.com/Bublum/bublum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the place where four of the world's insignificant persons boast about their accomplishments in life and procrastinate about that everyday!
 
 ### Markdown
 
